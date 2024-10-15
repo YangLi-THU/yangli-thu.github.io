@@ -12,7 +12,7 @@ My research interests mainly include mobile system/networking, machine learning,
 
 *   **[Automating Cloud Deployment for Real-time Online Foundation Model Inference.](https://thucloud.com/zhenhua/papers/TON'24%20AutoDeep.pdf)**
 
-    **Yang Li**, Zhenhua Li, Zhenhua Han, Quanlu Zhang, and Xiaobo Ma.
+    **Yang Li**, Zhenhua Li, Zhenhua Han, Quanlu Zhang, and Xiaobo Ma
     
     *TON'24: IEEE/ACM Transactions on Networking, Vol. 32, No. 2, Apr. 2024, Pages 1509-1523. (SCI, Impact factor: 3.597)*
 
@@ -42,13 +42,13 @@ My research interests mainly include mobile system/networking, machine learning,
 
 *   **vSoC: Efficient Virtual System-on-Chip on Heterogeneous Hardware.**
 
-    Jiaxing Qiu, Zijie Zhou, **Yang Li**, Zhenhua Li*, Feng Qian, Hao Lin, Di Gao, Haitao Su, Xin Miao, Yunhao Liu, and Tianyin Xu
+    Jiaxing Qiu, Zijie Zhou, **Yang Li**, Zhenhua Li, Feng Qian, Hao Lin, Di Gao, Haitao Su, Xin Miao, Yunhao Liu, and Tianyin Xu
     
     *SOSP'24: The 30th ACM Symposium on Operating Systems Principles, Nov. 4-6, 2024, Austin, Texas, US. (Accept ratio: 43/248=17.3%)*
 
 *   **Intelligent Perception of Network Efficiency for Mobile Cloud Gaming Based on the Distributed Mobile Platform (基于分布式移动平台的云游戏网络效率智能感知)**
 
-    Hongyi Wang, **Yang Li**, Jing Yang, Zhenhua Li*, Xiabo Ma, Daqiang Hu, and Zhi Liao
+    Hongyi Wang, **Yang Li**, Jing Yang, Zhenhua Li, Xiabo Ma, Daqiang Hu, and Zhi Liao
     
     *CCCF'24: Communications of China Computer Federation (CCCF《中国计算机学会通讯》), Vol. 20, Mon. 2024.*
 
